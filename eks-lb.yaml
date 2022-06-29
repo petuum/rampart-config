@@ -25,4 +25,3 @@ ui:
     exprs:
       subject:
         opValue: ".+"
-
