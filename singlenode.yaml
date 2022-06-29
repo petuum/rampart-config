@@ -1,0 +1,4 @@
+apisix:
+  etcd:
+    replicaCount: 1
+
